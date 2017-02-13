@@ -1,9 +1,9 @@
 #include <iostream>
 #include "solution.h"
-
+#include "solution2.h"
 int main() {
 
-    Solution s;
+    Solution2 s;
     std::vector<std::vector<int>> res;
     std::vector<int> arr = {1, 2, 3, 4};
 
